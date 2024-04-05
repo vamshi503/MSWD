@@ -25,7 +25,7 @@ Online Grocery Store E-commerce Web Application built using MERN Stack. It has a
 #### `How to run locally?`
 
 ```bash
-git clone https://github.com/Prince-Shivaram/online-grocerystore
+git clone https://github.com/vamshi503/MSWD.git
 cd online-grocerystore
 npm install
 cd frontend
